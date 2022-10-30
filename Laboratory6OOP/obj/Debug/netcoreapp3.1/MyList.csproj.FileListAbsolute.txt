@@ -1,0 +1,14 @@
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\MyList.exe
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\MyList.deps.json
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.json
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.dev.json
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\MyList.dll
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\MyList.pdb
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\MyList.csproj.AssemblyReference.cache
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\MyList.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\MyList.AssemblyInfoInputs.cache
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\MyList.AssemblyInfo.cs
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\MyList.csproj.CoreCompileInputs.cache
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\MyList.dll
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\MyList.pdb
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\MyList.genruntimeconfig.cache

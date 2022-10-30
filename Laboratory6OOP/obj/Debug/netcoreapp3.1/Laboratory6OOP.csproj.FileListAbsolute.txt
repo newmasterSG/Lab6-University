@@ -1,0 +1,14 @@
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\Laboratory6OOP.exe
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\Laboratory6OOP.deps.json
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\Laboratory6OOP.runtimeconfig.json
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\Laboratory6OOP.runtimeconfig.dev.json
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\Laboratory6OOP.dll
+E:\University\Laboratory6OOP\Laboratory6OOP\bin\Debug\netcoreapp3.1\Laboratory6OOP.pdb
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\Laboratory6OOP.csproj.AssemblyReference.cache
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\Laboratory6OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\Laboratory6OOP.AssemblyInfoInputs.cache
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\Laboratory6OOP.AssemblyInfo.cs
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\Laboratory6OOP.csproj.CoreCompileInputs.cache
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\Laboratory6OOP.dll
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\Laboratory6OOP.pdb
+E:\University\Laboratory6OOP\Laboratory6OOP\obj\Debug\netcoreapp3.1\Laboratory6OOP.genruntimeconfig.cache
